@@ -7,6 +7,3 @@ __*Talk is cheap. Show me the code.*__
 
 ![Salvatore Starace's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvatore-tech&show_icons=true&layout=compact&theme=radical)
 
-
-
-
